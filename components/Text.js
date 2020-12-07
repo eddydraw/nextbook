@@ -1,0 +1,1 @@
+export const Text = "Vestibulum gravida odio quis nisl semper fringilla. Nam ipsum magna, vehicula vitae velit non, blandit viverra purus."
